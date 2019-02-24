@@ -17,3 +17,9 @@
 - Funcion cambio: Está función permite reconocer cuando la nave colisiona con el asteroíde comparando posiciones.
 
 (Rama Bracass última versión del juego)
+
+### Descarga de archivos:
+- El juego se encuentra en una carpeta comprimida tipo .zip, donde contiene; dos elementos en html, dos elementos en css y un elemento en java script, también cuenta con la carpeta imagenes necesaria para el funcionamiento visual del juego.
+- Descomprimir el archivo que generará una carpeta llamada Juego-js.
+- Asegurarse que estos elementos estén en sus carpetas correspondientes (imagenes, estilo y js).
+- Abrir el archivo tipo html llamado; menu.html 
