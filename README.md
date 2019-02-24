@@ -15,3 +15,5 @@
 - Funcion cambioesc1: Esta función permite renovar el fondo del canvas pasando al lvl 2 del juego, aumentando su dificultad.
 - Funcion cambioesc2: Esta función permite renovar los canvas anteriores pasando al lvl 3 del juego, aumentando aún más la dificultad.
 - Funcion cambio: Está función permite reconocer cuando la nave colisiona con el asteroíde comparando posiciones.
+
+(Rama Bracass última versión del juego)
