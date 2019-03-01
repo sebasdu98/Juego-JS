@@ -1,0 +1,3 @@
+https://www.lawebdelprogramador.com/codigo/JQuery/3262-Como-pasar-una-variable-de-JavaScript-a-PHP.html
+https://www.lawebdelprogramador.com/foros/PHP/1457403-Enviar-variables-javascript-con-_POST.html
+http://www.uterra.com/codigo_php/codigo_php.php?ref=variables_javascript_a_php_con_ajax
