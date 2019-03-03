@@ -1,3 +1,17 @@
 https://www.lawebdelprogramador.com/codigo/JQuery/3262-Como-pasar-una-variable-de-JavaScript-a-PHP.html
 https://www.lawebdelprogramador.com/foros/PHP/1457403-Enviar-variables-javascript-con-_POST.html
 http://www.uterra.com/codigo_php/codigo_php.php?ref=variables_javascript_a_php_con_ajax
+
+---
+formulario php con ajax
+
+*https://www.codigonexo.com/blog/programacion/php/enviar-formulario-sin-recargar-la-pagina/
+*http://foros.cristalab.com/como-ejecutar-codigo-php-sin-abrir-otra-pagina-t112895/
+*http://facturacionweb.site/blog/crear-formulario-contacto-php-ajax/
+*https://es.stackoverflow.com/questions/24583/enviar-post-a-php-por-medio-de-ajax
+*https://webdesign.tutsplus.com/es/tutorials/building-a-bootstrap-contact-form-using-php-and-ajax--cms-23068
+*https://es.stackoverflow.com/questions/175143/pasar-variable-javascript-a-php (js a php)
+*https://www.reddit.com/r/PHP/comments/4fo9ij/how_to_run_an_external_php_script_in_html/ (external php)
+*https://www.lawebdelprogramador.com/codigo/JQuery/3262-Como-pasar-una-variable-de-JavaScript-a-PHP.html (js a php)
+*http://biolucas.com/formulario-php-para-cargar-datos-en-la-misma-pagina/
+*http://www.forosdelweb.com/f18/formulario-pasar-datos-sin-cambiar-url-746677/
